@@ -1,0 +1,22 @@
+.todo {
+    border: 2px solid teal;
+}
+
+.wrapper {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.pag-item {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    border: 1px solid teal;
+    background-color: white;
+    color: teal;
+    cursor: pointer;
+}
+
+.wrap__pag {
+    display: flex;
+}
